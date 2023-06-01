@@ -23,7 +23,7 @@ If you like my project, give it a :star: or support me by buying me a coffee :co
 
 
 ### Important Notice
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">You can buy for about 10 or 15 USD a Raspberry Pi Pico in Aliexpress 🧵</p>&mdash; Check my site, running simetimes my code: <a href="http://sdfcsc.ddns.net/" target="_blank">sdfcsc.ddns.net</a> - or, <a href="http://sdfcscx.ddns.net/" target="_blank">sdfcscx.ddns.net</a> - May 28, 2023</blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">You can buy for about 10 or 15 USD a Raspberry Pi Pico in Aliexpress 🧵</p>&mdash; - May 28, 2023</blockquote>
 
 ---
 
